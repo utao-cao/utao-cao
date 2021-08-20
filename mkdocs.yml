@@ -1,0 +1,66 @@
+docs_dir: source
+nav:
+- Home: index.md
+- Projects:
+  - pj1: pj/pj1.md
+  - pj2_se_gut_microbes: pj/pj2_se_gut_microbes.md
+- Blogs:
+  - stat: 
+    - stat: stat.md
+    - freq: freq.md
+    - bayesian: bayesian.md
+  - R: progLang/R.md
+  - Python: progLang/Python.md
+  - staticWeb: staticWeb.md
+
+#repo_url: https://github.com/utao-cao/wiki/
+site_author: utao
+site_description: "Utao "
+site_dir: docs
+site_name: "Utao "
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+    - header.autohide
+extra:
+  article_nav_bottom: true
+  history_buttons: true
+  analytics:
+    provider: google
+    property: G-MYR2JM956F
+  alternate:
+    # Switch to English
+    - name: Chinese
+      link: language/zh/
+      lang: zh
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/utao-cao
+      name: utao on Github
+    - icon: fontawesome/brands/linkedin
+      link: https://github.com/utao-cao
+
+markdown_extensions:
+- admonition
+- smarty
+- attr_list
+- pymdownx.arithmatex:
+    generic: true
+- toc:
+    permalink: true
+    toc_depth: 3
+extra_javascript:
+  - javascripts/config.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+#plugins:
+#  - search:
+#    separator: '[\s\-\.]+'
+#  - tags
+#  - social

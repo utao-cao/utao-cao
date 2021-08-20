@@ -1,0 +1,3 @@
+# Bayesian stat
+
+## hierachical model
