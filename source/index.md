@@ -1,9 +1,9 @@
 # Personal Info
 utao.cao.cau@outlook.com | [github](https://github.com/utao-cao) | [pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=yutao+cao%5Bfau%5D+china+agricultural+university%5Baffiliation%5D)
 
-I am a second-year postergraduate student major in Animal Genetics and Breeding at the China Agricultral University. 
+I am a second-year postgraduate student majoring in Animal Genetics and Breeding at the China Agricultral University. 
 
-My main research interest focus on **interdisciplinary research**, **Machine Learning**, **statistics** with application in the biology area. My recent work includes analysis of time series epigenomics, interplay between DNA methylation and transcriptome in muscle.
+My main research interest focus on **interdisciplinary research**, **statistics**, **Machine Learning** with application in the biology area. My recent work includes analysis of time series epigenomics, interplay between DNA methylation and transcriptome in muscle.
 
 ## Skills
 1. Languages: Python, R, Bash(grep/awk/sed)
