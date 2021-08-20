@@ -2,13 +2,12 @@ docs_dir: source
 nav:
 - Home: index.md
 - Projects:
-  - pj1: pj/pj1.md
-  - pj2_se_gut_microbes: pj/pj2_se_gut_microbes.md
+  - muscle_epigene: pj/pj1_muscle_epigene.md
+  - gut_microbes: pj/pj2_gut_microbes.md
 - Blogs:
-  - stat: 
-    - stat: stat.md
-    - freq: freq.md
-    - bayesian: bayesian.md
+  - stat: stat.md
+  - freq: freq.md
+  - bayesian: bayesian.md
   - R: progLang/R.md
   - Python: progLang/Python.md
   - staticWeb: staticWeb.md
@@ -34,11 +33,11 @@ extra:
   analytics:
     provider: google
     property: G-MYR2JM956F
-  alternate:
-    # Switch to English
-    - name: Chinese
-      link: language/zh/
-      lang: zh
+  # alternate:
+  #   # Switch to English
+  #   - name: Chinese
+  #     link: language/zh/
+  #     lang: zh
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/utao-cao
