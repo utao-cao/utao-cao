@@ -1,13 +1,14 @@
 docs_dir: source
 nav:
-- Home: index.md
+- Home: 
+  - Home: index.md
+  - aboutme: aboutme.md
 - Projects:
   - muscle_epigene: pj/pj1_muscle_epigene.md
   - gut_microbes: pj/pj2_gut_microbes.md
 - Blogs:
-  - stat: stat.md
-  - freq: freq.md
-  - bayesian: bayesian.md
+  - freq: stat/freq.md
+  - bayesian: stat/bayesian.md
   - R: progLang/R.md
   - Python: progLang/Python.md
   - staticWeb: staticWeb.md

@@ -1,8 +1,0 @@
-# Statistics Theory
-
-## Bayesian
-
-## Frequentist
-
-
-
