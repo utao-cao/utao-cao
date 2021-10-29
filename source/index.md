@@ -16,7 +16,7 @@ My main research interest focus on **interdisciplinary research**, **statistics*
 
 ## Academic Work and Publications 
 - Qazi IH, **Cao Y**, Yang H, et al. Impact of Dietary Selenium on Modulation of Expression of Several Non-Selenoprotein Genes Related to Key Ovarian Functions, Female Fertility, and Proteostasis: a Transcriptome-Based Analysis of the Aging Mice Ovaries. _Biol Trace Elem Res_. 2021;199(2):633-648. doi:10.1007/s12011-020-02192-x
-- A poster about 
+- A poster about muscle's alternative splicing
 
 
 
