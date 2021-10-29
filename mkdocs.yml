@@ -1,17 +1,24 @@
 docs_dir: source
 nav:
 - Home: 
-  - Home: index.md
-  - aboutme: aboutme.md
+  - Home: "index.md"
+  - Aboutme: "aboutme.md"
 - Projects:
-  - muscle_epigene: pj/pj1_muscle_epigene.md
-  - gut_microbes: pj/pj2_gut_microbes.md
+  - Muscle_epigene: "projects/pj1_muscle_epigene.md"
+  - Gut_microbes: "projects/pj2_gut_microbes.md"
+- Notebooks:
+  - PythonExercises:
+    - DailyOperations: "notebooks/inCommonUse.md"
+    - Rosalind: "notebooks/rosalind.md"
 - Blogs:
-  - freq: stat/freq.md
-  - bayesian: stat/bayesian.md
-  - R: progLang/R.md
-  - Python: progLang/Python.md
-  - staticWeb: staticWeb.md
+  - Statistics:
+    - Freqentists: "statistics/freq.md"
+    - Bayesian: "statistics/bayesian.md"
+  - Languages:
+    - R: "languages/R.md"
+    - Python: "languages/Python.md"
+  - ThisWeb: "builtThisWeb.md"
+
 
 #repo_url: https://github.com/utao-cao/wiki/
 site_author: utao
@@ -50,6 +57,8 @@ markdown_extensions:
 - admonition
 - smarty
 - attr_list
+- footnotes
+- tables
 - pymdownx.arithmatex:
     generic: true
 - toc:

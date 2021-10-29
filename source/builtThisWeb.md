@@ -12,6 +12,11 @@
 '''
 
 ## mkdocs
+
+### Tutrial
+1. [Blog_Mkdocs 配置和使用](https://www.xncoding.com/2020/03/01/tool/mkdocs.html)
+2. [少数派_MkDocs 快速上手指南](https://sspai.com/prime/story/mkdocs-primer)
+### other might help
 1. [搭建个人博客，你需要知道这些](https://zhuanlan.zhihu.com/p/25744686)
 1. [使用 mkdocs 搭建个人 wiki 站点](https://blog.csdn.net/u013051748/article/details/108804029)
 2. [基于mkdocs-material搭建个人静态博客](https://zhuanlan.zhihu.com/p/56891725)
@@ -32,6 +37,7 @@
 一段时间后，可能有文件被从源码中移除了，但是相关的文档仍残留在 site 目录中。在构建命令中添加--clean 参数即可移除这些文档。
 
 `mkdocs build --clean`
-## Disuse
+
+## Discussion
 1. [为什么使用mkdocs代替github的wiki做文档管理？](https://www.cnblogs.com/zhaoqingqing/p/9898121.html)
 
