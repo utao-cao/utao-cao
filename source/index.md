@@ -9,7 +9,7 @@ My postgraduate work includes analysis of epigenomics, interplay between DNA met
 
 ## Skills
 1. Languages: Python, R, Stan (a baysian programming language), Bash(grep/awk/sed)
-2. packages: Rstan, data.table, Pandas, scikit-learn, BeautifulSoup, Pytorch, RShiny [Demo](https://derekterry.shinyapps.io/dataPresentation/),
+2. packages: Rstan, data.table, Pandas, scikit-learn, BeautifulSoup, RShiny [Demo](https://derekterry.shinyapps.io/dataPresentation/),
 3. Human Languages: fluent Chinese, good English, basic French
 4. experience of omics: DNA methylation(WGBS), ATAC, WGS(SNP calling), ChIP-seq
 5. Developer Tools: HPC platform, Git, Snakemake(Workflow Description Language) , VS Code, docker, Jupyter Notebooks
