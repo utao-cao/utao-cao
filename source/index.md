@@ -1,7 +1,7 @@
 # Personal Info
 utao.cho.cau@outlook.com | [github](https://github.com/utao-cao) | [pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=yutao+cao%5Bfau%5D+china+agricultural+university%5Baffiliation%5D)
 
-I am a research assitant at the Zhejiang University School of Medicine. My major research work focus on landscape of somatic mutation in autoimmune disease， as well as establishing a database to further prioritize regulation elements in liver disease.
+I am a research assistant at the Zhejiang University School of Medicine. My major research work focus on landscape of somatic mutation in autoimmune disease， as well as establishing a database to further prioritize regulation elements in liver disease.
 
 My main research interest focus on **interdisciplinary research** of genetics and statistics with help of computational tools. I wish to combined **Genetics** with **statistics** and **machine learning** in the biology area to untangle complexity of genetic landscape and infer potential gene regulation and, possibly, validate it.
 
