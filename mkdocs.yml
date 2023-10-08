@@ -19,10 +19,10 @@ nav:
 #     - Gut_microbes: projects/pj2_gut_microbes.md
 
 #repo_url: https://github.com/utao-cao/wiki/
-site_author: utao
-site_description: "Utao "
+site_author: caoyt
+site_description: "Github homepage"
 site_dir: docs
-site_name: "Utao "
+site_name: "Github homepage "
 theme:
   name: material
   features:
