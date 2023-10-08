@@ -9,6 +9,7 @@ nav:
     - R: languages/R.md
     - Python: languages/Python.md
   - ThisWeb: builtThisWeb.md
+
 # - Notebooks:
 #   - PythonExercises:
 #     - DailyOperations: notebooks/inCommonUse.md
@@ -16,8 +17,6 @@ nav:
 #     - Projects:
 #     - Muscle_epigene: projects/pj1_muscle_epigene.md
 #     - Gut_microbes: projects/pj2_gut_microbes.md
-
-
 
 #repo_url: https://github.com/utao-cao/wiki/
 site_author: utao
@@ -47,10 +46,10 @@ extra:
   #     lang: zh
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/utao-cao
+      link: https://github.com/utcao
       name: utao on Github
-    - icon: fontawesome/brands/linkedin
-      link: https://github.com/utao-cao
+    # - icon: fontawesome/brands/linkedin
+    #   link: https://github.com/utcao
 
 markdown_extensions:
 - admonition
