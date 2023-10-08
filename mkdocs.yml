@@ -1,15 +1,6 @@
 docs_dir: source
 nav:
-- Home: 
-  - Home: index.md
-  - Aboutme: aboutme.md
-- Projects:
-  - Muscle_epigene: projects/pj1_muscle_epigene.md
-  - Gut_microbes: projects/pj2_gut_microbes.md
-- Notebooks:
-  - PythonExercises:
-    - DailyOperations: notebooks/inCommonUse.md
-    - Rosalind: notebooks/rosalind.md
+- Home: index.md
 - Blogs:
   - Statistics:
     - Freqentists: statistics/freq.md
@@ -18,6 +9,14 @@ nav:
     - R: languages/R.md
     - Python: languages/Python.md
   - ThisWeb: builtThisWeb.md
+# - Notebooks:
+#   - PythonExercises:
+#     - DailyOperations: notebooks/inCommonUse.md
+#     - Rosalind: notebooks/rosalind.md
+#     - Projects:
+#     - Muscle_epigene: projects/pj1_muscle_epigene.md
+#     - Gut_microbes: projects/pj2_gut_microbes.md
+
 
 
 #repo_url: https://github.com/utao-cao/wiki/

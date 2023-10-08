@@ -8,11 +8,11 @@ My main research interest focus on **interdisciplinary research** of genetics an
 My postgraduate work includes analysis of epigenomics, interplay between DNA methylation and transcriptome in muscle.
 
 ## Skills
-1. Languages: Python, R, Stan (a baysian programming language), Bash(grep/awk/sed)
-2. packages: Rstan, data.table, Pandas, scikit-learn, BeautifulSoup, RShiny [Demo](https://derekterry.shinyapps.io/dataPresentation/),
+1. Languages: ![python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a) ![R](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a) ![linux](https://img.shields.io/badge/Code-bash-informational?style=flat&logo=gnubash&logoColor=white&color=2bbc8a), Stan
+2. Developer Tools: ![docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a) ![snakemake](https://img.shields.io/badge/Tools-snakemake-informational?style=flat&logo=commonworkflowlanguage&logoColor=white&color=2bbc8a) ![scikit-learn](https://img.shields.io/badge/Tools-scikit_learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a)
 3. Human Languages: fluent Chinese, good English, basic French
-4. experience of omics: DNA methylation(WGBS), ATAC, WGS(SNP calling), ChIP-seq
-5. Developer Tools: HPC platform, Git, Snakemake(Workflow Description Language) , VS Code, docker, Jupyter Notebooks
+4. experience of omics: DNA methylation(WGBS), ATAC, WGS, ChIP-seq
+5. packages: Rstan, data.table, Pandas, scikit-learn, BeautifulSoup, RShiny [Demo](https://derekterry.shinyapps.io/dataPresentation/)
 
 ## Academic Work and Publications 
 - Qazi IH, **Cao Y**, Yang H, et al. Impact of Dietary Selenium on Modulation of Expression of Several Non-Selenoprotein Genes Related to Key Ovarian Functions, Female Fertility, and Proteostasis: a Transcriptome-Based Analysis of the Aging Mice Ovaries. _Biol Trace Elem Res_. 2021;199(2):633-648. doi:10.1007/s12011-020-02192-x
