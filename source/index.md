@@ -16,7 +16,7 @@ I enjoy myself to gain new knowledge, expand skill set and try to exert it on my
 4. experience of omics: DNA methylation(WGBS), ATAC, WGS, ChIP-seq
 5. packages: Rstan, data.table, Pandas, scikit-learn, BeautifulSoup, RShiny [Demo](https://derekterry.shinyapps.io/dataPresentation/)
 
-## Academic Work and Publications
+## List of Publications
 
 - **Cao Y**#, Ai Y #, Zhang X, Zhang J, Long X, Zhu Y, Wang L, Gu Q, Han H. Genome-wide
 epigenetic dynamics during postnatal skeletal muscle growth in Hu sheep. *Commun Biol.* 2023
