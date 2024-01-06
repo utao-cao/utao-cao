@@ -13,6 +13,8 @@ extra:
   analytics:
     provider: google
     property: G-002R2HEMG7
+  article_nav_bottom: true
+  history_buttons: true
 # - Notebooks:
 #   - PythonExercises:
 #     - DailyOperations: notebooks/inCommonUse.md
@@ -36,12 +38,7 @@ theme:
     - search.highlight
     - search.share
     - header.autohide
-extra:
-  article_nav_bottom: true
-  history_buttons: true
-  analytics:
-    provider: google
-    property: G-MYR2JM956F
+
   # alternate:
   #   # Switch to English
   #   - name: Chinese
