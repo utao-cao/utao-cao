@@ -9,7 +9,10 @@ nav:
     - R: languages/R.md
     - Python: languages/Python.md
   - ThisWeb: builtThisWeb.md
-
+extra:
+  analytics:
+    provider: google
+    property: G-002R2HEMG7
 # - Notebooks:
 #   - PythonExercises:
 #     - DailyOperations: notebooks/inCommonUse.md
